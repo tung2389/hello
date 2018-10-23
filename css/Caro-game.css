@@ -1,0 +1,37 @@
+.squareX {
+  color: blue;
+  background: #fff;
+  float: left;
+  border: 1px solid #999;
+  font-size: 24px;
+  font-weight: bold;
+  height: 34px;
+  width: 34px;
+  padding: 0px;
+}
+.squareO {
+  color: red;
+  background: #fff;
+  float:left;
+  border: 1px solid #999;
+  font-size: 24px;
+  font-weight: bold;
+  height: 34px;
+  width: 34px;
+  padding: 0px;
+}
+.board-row
+{
+  display: table;
+}
+
+
+
+/* .square:focus {
+  outline: none;
+} */
+
+/* .kbd-navigation .square:focus {
+  background: #ddd;
+} */
+
